@@ -1,4 +1,8 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+## Name: DEVADARSHAN A S
+## Register No : 212222110007
+## DATE: 27.08.2024
+
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
